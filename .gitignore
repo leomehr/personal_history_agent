@@ -1,2 +1,5 @@
 .direnv/
 __pycache__/
+keys.json
+data/
+storage/
